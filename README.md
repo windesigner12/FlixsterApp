@@ -1,6 +1,5 @@
 # FlixsterApp
 
-# FlixsterApp
 ##Part 1
 
 #### REQUIRED (10pts)
